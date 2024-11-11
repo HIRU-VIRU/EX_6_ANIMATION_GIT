@@ -285,9 +285,11 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## Output:
-![WhatsApp Image 2024-11-08 at 13 47 57_555948ca](https://github.com/user-attachments/assets/8b2430fd-1409-4b61-bb77-c7e7541e43c0)
+![326025130-8f5086ac-474c-471c-b6b1-4a2695a1d095](https://github.com/user-attachments/assets/80de3924-c008-4140-9179-1c91fcdf3fac)
 
-![WhatsApp Image 2024-11-08 at 13 47 55_3f404778](https://github.com/user-attachments/assets/cb99c37c-53be-413a-986e-5e939960b1a1)
+![326025130-8f5086ac-474c-471c-b6b1-4a2695a1d095](https://github.com/user-attachments/assets/769686ac-24f3-4074-b77d-2be01370b9e6)
+
+
 
 ## Result:
 Thus a Simple Android Application to perform different animations for the image on the screen using Android Studio was developed and executed successfully.
